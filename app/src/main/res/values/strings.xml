@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Notes</string>
     <string name="activity_main_text_my_note_text">My Notes</string>
+    <string name="search_notes">Search notes</string>
 </resources>
