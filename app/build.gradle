@@ -40,4 +40,21 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
+
+    //room(database)
+    implementation "androidx.room:room-runtime:2.4.3"
+    annotationProcessor "androidx.room:room-compiler:2.4.3"
+
+    //recyclerview
+    implementation "androidx.recyclerview:recyclerview:1.2.1"
+
+    //scalarable size unit(поддержка различие между размерами)
+    implementation "com.intuit.sdp:sdp-android:1.0.6"
+    implementation "com.intuit.sdp:sdp-android:1.0.6"
+
+    //material design
+    implementation "com.google.android.material:material:1.7.0"
+
+    //rounded imageview
+    implementation "com.makeramen:roundedimageview:2.3.0"
 }
