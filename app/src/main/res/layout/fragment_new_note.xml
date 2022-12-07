@@ -39,7 +39,6 @@
                 android:ems="10"
                 android:hint="Type your title"
                 android:inputType="text"
-                android:minHeight="48dp"
                 android:textColor="@color/black"
                 android:textColorHint="@color/black"
                 android:textSize="20sp"
