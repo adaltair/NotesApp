@@ -1,4 +1,4 @@
-package com.example.notesapp
+package com.bersyte.noteapp
 
 import org.junit.Test
 
